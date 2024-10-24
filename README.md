@@ -21,6 +21,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Creativedemon&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Creativedemon&icon=10&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Creativedemon&icon=10&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
