@@ -1,8 +1,8 @@
 # Hey there! 👋 I'm Creative Demon
 
-🎯 A passionate coder from Kolkata  
+🎯 A passionate coder from Manji Space  
 🔧 I build bots, websites, and anime-related tools  
-🎨 Graphic Designer | 🎙️ Dub Artist | 🎥 Video Editor
+🎨 Graphic Designer | 🎥 Video Editor
 
 ## 🚀 Tech Stack
 - ⚙️ Python, JavaScript, PHP
@@ -14,6 +14,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CreativeDemon&show_icons=true&theme=tokyonight)
 
 ## 🌍 Connect with Me
-- Telegram: [@creativedemon](https://t.me/yourhandle)
+- Telegram: [@creativedemon](https://t.me/creativedemon)
 - YouTube: [Learn With Demon](https://youtube.com/yourchannel)
 - Website: [manjii.space](https://manjii.space)
